@@ -8,6 +8,7 @@ module.exports = {
     'plugin:react/recommended',
     'standard-with-typescript',
     'plugin:prettier/recommended',
+    'plugin:@next/next/recommended'
   ],
   overrides: [
   ],
